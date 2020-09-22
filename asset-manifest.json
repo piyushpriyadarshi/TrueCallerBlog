@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TrueCallerBlog/static/css/main.7ded77cf.chunk.css",
-    "main.js": "/TrueCallerBlog/static/js/main.b5c80a76.chunk.js",
-    "main.js.map": "/TrueCallerBlog/static/js/main.b5c80a76.chunk.js.map",
+    "main.js": "/TrueCallerBlog/static/js/main.f8743c82.chunk.js",
+    "main.js.map": "/TrueCallerBlog/static/js/main.f8743c82.chunk.js.map",
     "runtime-main.js": "/TrueCallerBlog/static/js/runtime-main.428f8ebd.js",
     "runtime-main.js.map": "/TrueCallerBlog/static/js/runtime-main.428f8ebd.js.map",
     "static/js/2.3abd02ed.chunk.js": "/TrueCallerBlog/static/js/2.3abd02ed.chunk.js",
     "static/js/2.3abd02ed.chunk.js.map": "/TrueCallerBlog/static/js/2.3abd02ed.chunk.js.map",
     "index.html": "/TrueCallerBlog/index.html",
-    "precache-manifest.668976d59d039c25198c8dfd15386195.js": "/TrueCallerBlog/precache-manifest.668976d59d039c25198c8dfd15386195.js",
+    "precache-manifest.308d4c2e4069e4d2ccd40765f722fac6.js": "/TrueCallerBlog/precache-manifest.308d4c2e4069e4d2ccd40765f722fac6.js",
     "service-worker.js": "/TrueCallerBlog/service-worker.js",
     "static/css/main.7ded77cf.chunk.css.map": "/TrueCallerBlog/static/css/main.7ded77cf.chunk.css.map",
     "static/js/2.3abd02ed.chunk.js.LICENSE.txt": "/TrueCallerBlog/static/js/2.3abd02ed.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.428f8ebd.js",
     "static/js/2.3abd02ed.chunk.js",
     "static/css/main.7ded77cf.chunk.css",
-    "static/js/main.b5c80a76.chunk.js"
+    "static/js/main.f8743c82.chunk.js"
   ]
 }

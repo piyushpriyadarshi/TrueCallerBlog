@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TrueCallerBlog/precache-manifest.668976d59d039c25198c8dfd15386195.js"
+  "/TrueCallerBlog/precache-manifest.308d4c2e4069e4d2ccd40765f722fac6.js"
 );
 
 self.addEventListener('message', (event) => {

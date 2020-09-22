@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7f47327332272f0779d8a1f15b825be",
+    "revision": "f3a37fa6a9e794df970f3c320dcd4baf",
     "url": "/TrueCallerBlog/index.html"
   },
   {
-    "revision": "d785a793ffc8ba8eca6f",
+    "revision": "121411c422abee7a674b",
     "url": "/TrueCallerBlog/static/css/main.7ded77cf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TrueCallerBlog/static/js/2.3abd02ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d785a793ffc8ba8eca6f",
-    "url": "/TrueCallerBlog/static/js/main.b5c80a76.chunk.js"
+    "revision": "121411c422abee7a674b",
+    "url": "/TrueCallerBlog/static/js/main.f8743c82.chunk.js"
   },
   {
     "revision": "a2af54b423b9e92675ed",
